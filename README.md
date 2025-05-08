@@ -1,4 +1,3 @@
-# Rubric
-Rubrics used for assessing assignments and projects in workforce eduation courses
+# Capstone Rubric
 
-- [SDF Final Project](./sdf/final-project/overview.md)
+- [Capstone Rubric](./sdf/final-project/overview.md)
